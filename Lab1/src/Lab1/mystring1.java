@@ -1,9 +1,9 @@
 package Lab1;
 
-public class mystring {
-	private String Text;
+public class mystring1 {
+private String Text;
 	
-	public mystring() {
+	public mystring1() {
 	Text = null;
 	}
 	public void setString(String t){
@@ -23,5 +23,6 @@ public class mystring {
 	}
 	return Text;
 	}
+
 
 }
